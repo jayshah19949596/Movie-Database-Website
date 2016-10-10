@@ -1,0 +1,139 @@
+<html>
+<title> About Us </title>
+<head>
+<link href="header.css" type="text/css" rel="stylesheet">
+<link href="about.css" type="text/css" rel="stylesheet">
+
+</head>
+<body bgcolor="black">
+<header id="head">
+	<div class="wrap">
+		<nav>
+			<strong id="logo"> <a href="index.html" class="logo"><h1> Logo </h1></a></strong>
+			<ul class="navlinks">
+				<li><a href="movies.html">Movies</a></li>
+				<li><a href="trailers.html">Trailers</a></li>
+				<li><a href="releases.html">Releases</a></li>
+                                			<li><a href="reviews.html">Reviews</a></li>
+                               			 <li><a href="aboutus.html">About Us</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+<div id="grey_line" class="s_mb_0"></div>
+
+<br><br>
+<div id="grey_line" class="s_mb_0"></div>
+<div id="about">
+<h1> About Us </h1>
+<p>
+MovieArena is a leading innovator and source for today's top entertainment news, information, and up-to-the-minute videos. MovieArena also serves as a vast database for trailers, photos, and interviews from all of Bollywood's and Hollywood's biggest blockbusters to true independent cinema. Our vast and far-reaching social network has created one of the most unique and engaging movie communities online. Founded in 2014, MovieArena has grown into a trusted source for movie audiences of every genre all over the world. With headquarters in Mumbai, MovieArena continues to be one of the most trusted destinations for the connected generation.
+</p>
+</div>
+<div id="grey_line" class="s_mb_0"></div>
+
+<br><br>
+<div id="grey_line" class="s_mb_0"></div>
+
+
+<div id="names_block">
+<h1> Members </h1>
+
+<div id="names">
+<h1> Nishit Shetty </h1>
+<img id="name_img" src="nishit.jpg" alt="nishit" height="125" width="125">
+</div>
+
+<div id="names">
+<h1> Shail Shah </h1>
+<img id="name_img" src="shail.jpg" alt="shail" height="125" width="125">
+</div>
+
+<div id="names">
+<h1> Vimal Shah </h1>
+<img id="name_img" src="vimal.jpg" alt="vimal" height="125" width="125">
+</div>
+
+
+<div id="names">
+<h1> Jay Shah </h1>
+<img id="name_img" src="jay.jpg" alt="jay" height="125" width="125">
+</div>
+</div> <!--Names block-->
+
+<link href="footer.css" type="text/css" rel="stylesheet">
+</head> 
+<body>
+
+<br><br><br><br><br><br><br><br><br><br><br>
+<div id="grey_line" class="s_mb_0"></div>
+<br><br>
+<div id="grey_line" class="s_mb_0"></div>
+<div id="footer">
+<div class="s_wrap"><a href="#" id="top"></a>
+<div id="upperfield">
+<div id="logo_holder"><a href="/" id="flogo"></a></div><!--LOGO HOLDER-->
+<!--MENU HOLDER-->
+<div id="menu_holder">
+        <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutus.html">About</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="aboutus.html">Contact Us</a></li>
+    </ul>
+    <ul>
+        <li><a href="terms.html">Terms of use</a></li>
+        <li><a href="policy.html">Privacy Policy</a></li>
+            </ul>
+
+    <div class="clearfix">
+</div></div><!--MENU HOLDER-->
+
+<!--LINKS HOLDER-->
+<div id="links_holder">
+    
+    
+<div id="meetgadget">MovieArena network:
+    </div>
+
+
+    <div id="affs">
+            
+Affiliates: <a href="http://www.rogerebert.com/"  rel="nofollow"  title="" >Roger Ebert</a>, <a href="http://www.imdb.com/"  rel="nofollow"  title="" >IMDb</a>, <a href="http://www.rottentomatoes.com/"  rel="nofollow"  title="" >Rotten Tomatoes</a>, <a href="http://www.metacritic.com/"  title="" >Metacritic</a>, <a href="http://www.film.com/"  rel="nofollow"  title="" >film.com</a>, <a href="http://www.theguardian.com/film/"  rel="nofollow"  title="" >The Guardian</a>
+ 
+        </div>
+            
+
+    <div class="clearfix"></div>
+
+    <div id="more_links"> 
+        <a href="aboutus.html">About</a> . 
+        <a href="aboutus.html">Contact Us</a> . 
+        <a href="login.html">Login</a> .
+        <a href="signup.html">Sign Up</a> . 
+                <div class="clearfix"></div>
+    </div>
+    
+    <div class="clearfix"></div>
+
+</div><!--LINKS HOLDER-->
+</div><!--UPPERFIELD-->
+
+<div id="downfield">
+    <div id="social_icons">
+                <a id="gplus" href="https://plus.google.com" target="_blank"></a>
+                
+                <a id="youtube" href="http://www.youtube.com" target="_blank"></a>
+                
+        <a id="rss" href="/feed"></a>
+        
+                <a id="facebook" href="http://www.facebook.com" target="_blank"></a>
+                
+                <a id="twitter" href="http://www.twitter.com" target="_blank"></a>
+            </div>
+    
+    All content (movie reviews, news, information), design and layouts are Copyright of MovieArena.com. All rights reserved. <br />Reproduction in whole or in part or in any form or medium without written permission is prohibited! <br /><a href="/privacy">Privacy</a> . <a href="/terms_of_use">Terms of use</a> .   
+    <div class="clearfix"></div>
+
+</body>
+</html>

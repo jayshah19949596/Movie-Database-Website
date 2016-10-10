@@ -1,0 +1,43 @@
+#movie_table{
+border: 2px solid #404040;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+background-color: #151515;
+color: #828282;
+}
+
+
+#movies_img {
+display:table-cell;
+vertical-align: middle;
+width: 200px;
+left: 50px;
+padding: 10px;
+border: 1px solid #404040;
+float: left;
+}
+
+
+#movie_info {
+display:table-cell;
+vertical-align:middle;
+padding-right:10px;
+padding-left: 10px;
+}
+
+#moviename a{
+font-size:22px;
+color: #c8c8c8;
+}
+
+#moviename a:hover {
+font-size:22px;
+color: #e4e4e4;
+}
+
+#menu_name {
+font-size:25px;
+color: #828282;
+text-align: center;
+}
